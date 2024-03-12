@@ -1,6 +1,7 @@
 [
     {
-        "file": "example.html",
-        "title": "Example Post Title"
+        "title": "My First Post",
+        "description": "This is my first post",
+        "href": "/data/posts/first-post.html"
     }
 ]
