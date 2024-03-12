@@ -1,0 +1,19 @@
+@font-face {
+    font-family: heebo;
+    src: url(assets/heebo.ttf);
+}
+
+@font-face {
+    font-family: fa-solid;
+    src: url(assets/fa-solid.otf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+html {
+    background: gray;
+}
